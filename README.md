@@ -57,7 +57,7 @@ The circuit uses a TRIAC as the main switching device and a DIAC to trigger the 
 
 ## Circuit Diagram
 
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/43b42d3d-97b6-4cd4-b8d3-5b25158a6f64" />
+<img width="650" height="600" alt="image" src="https://github.com/user-attachments/assets/43b42d3d-97b6-4cd4-b8d3-5b25158a6f64" />
 
 
 ---
