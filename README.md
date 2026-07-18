@@ -52,7 +52,7 @@ The circuit uses a TRIAC as the main switching device and a DIAC to trigger the 
 
 ## Project Images
 
-<img width="650" height="500" alt="WhatsApp Image 2026-07-19 at 12 59 38 AM" src="https://github.com/user-attachments/assets/04d05ff1-047a-4cf5-b8d8-4d92b3d52196" />
+<img width="650" height="450" alt="WhatsApp Image 2026-07-19 at 12 59 38 AM" src="https://github.com/user-attachments/assets/04d05ff1-047a-4cf5-b8d8-4d92b3d52196" />
 
 
 
